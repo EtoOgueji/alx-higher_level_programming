@@ -1,0 +1,1 @@
+In Python, a class is a blueprint or a template for creating objects. It defines a set of attributes and methods that are common to all objects of that class. The attributes are the data members of the class, which represent the state of an object, while the methods are the functions associated with the class that define its behavior.

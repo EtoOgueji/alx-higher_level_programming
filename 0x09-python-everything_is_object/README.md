@@ -1,4 +1,4 @@
-# Objects and Value
+# Objects and Values
 
 In Python, objects and values are fundamental concepts that are used to represent and manipulate data. Here's a short explanation of objects and values in Python:
 

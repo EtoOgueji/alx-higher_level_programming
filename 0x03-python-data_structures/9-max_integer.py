@@ -4,9 +4,8 @@ def max_integer(my_list=[]):
         return
         
     i = len(my_list) - 1
-    k = 1
-
-    while i > 1:
+    
+    while i >= 1:
         j = 0
         while j < 1:
             if my_list[j] > my_list[j + 1]:
@@ -15,4 +14,4 @@ def max_integer(my_list=[]):
                 my_list[j + 1] = temp
             j += 1
         i -= 1
-    return my_list[k]
+    return my_list[-1]
